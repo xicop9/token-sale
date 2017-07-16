@@ -18,8 +18,8 @@ contract AVTSale is DSMath, DSNote, DSExec {
     uint public constant PUBLIC_SALE_PRICE = 92;
 
     uint128 public constant CROWDSALE_SUPPLY = 10000000 ether;
-    uint public constant LIQUID_TOKENS = 1500000 ether;
-    uint public constant ILLIQUID_TOKENS = 2500000 ether;
+    uint public constant LIQUID_TOKENS = 2500000 ether;
+    uint public constant ILLIQUID_TOKENS = 1500000 ether;
 
     // PURCHASE LIMITS
     uint public constant CLOSED_SALE_LIMIT = 3000000 ether;
