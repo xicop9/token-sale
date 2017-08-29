@@ -15,7 +15,7 @@ The AVT Token Sale is a simple fixed-price token distribution event. Upon creati
 
 `2,000,000 AVT` will be held in the contract for one year, upon which point they can be claimed by the founders.
 
-`6,0000,000 AVT` will be sold by the contract directly to contibutors in exchange for ETH. There will be two periods for the sale, a private stage and a public stage. During the private stage, only one address will be allowed to purchase up to one million AVT at a better price than during the public stage. These are the rates:
+`6,000,000 AVT` will be sold by the contract directly to contibutors in exchange for ETH. There will be two periods for the sale, a private stage and a public stage. During the private stage, only one address will be allowed to purchase up to one million AVT at a better price than during the public stage. These are the rates:
 
 **Private Rate:** `1 ETH` to `110 AVT`
 
